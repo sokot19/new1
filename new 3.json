@@ -1,0 +1,31 @@
+{
+  "title": "PSP Emulator",
+  "googleAdsPercentage": 100,
+  "enableStartScreen": true,
+  "enableAdsStartScreenTop": false,
+  "enableAdsStartScreenInterstitial": true,
+  "enableAdsInternalInterstitial": true,
+  "enableAppodealStartScreenTop": false,
+  "enableAppodealStartScreenInterstital": true,
+  "enableAppodealInternalInterstitial": true,
+  "siteUrlCivilized": "mailto:sokot19@gmail.com",
+  "siteUrlOther": "mailto:sokot19@gmail.com",
+  "civilizedCountries": [
+    "AU",
+    "ANT",
+    "DK",
+    "CH",
+    "ZA",
+    "NZ",
+    "FI",
+    "SG",
+    "NO",
+    "GB",
+    "NL",
+    "DE",
+    "US",
+    "CA"
+  ],
+  "appUrl": "mailto:sokot19@gmail.com",
+  "appImage": "mailto:sokot19@gmail.com"
+}
