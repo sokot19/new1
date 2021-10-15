@@ -6,8 +6,8 @@
   "enableAdsStartScreenInterstitial": true,
   "enableAdsInternalInterstitial": true,
   "enableAppodealStartScreenTop": false,
-  "enableAppodealStartScreenInterstital": true,
-  "enableAppodealInternalInterstitial": true,
+  "enableAppodealStartScreenInterstital": false,
+  "enableAppodealInternalInterstitial": false,
   "siteUrlCivilized": "mailto:sokot19@gmail.com",
   "siteUrlOther": "mailto:sokot19@gmail.com",
   "civilizedCountries": [
